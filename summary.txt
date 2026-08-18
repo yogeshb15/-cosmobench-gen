@@ -1,0 +1,5 @@
+CosmoBench-Gen results
+========================
+Templates: 3 (age of universe, deceleration parameter, luminosity distance)
+Problem bank: 45 instances (15/template)
+Grader diagnostic accuracy on 12 synthetic validation cases: 100.0%

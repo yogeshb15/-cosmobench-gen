@@ -1,0 +1,119 @@
+[
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.254,
+      "H0": 67.1
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.254 and Hubble constant H0 = 67.1 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 14.709519061361785,
+    "distractors": {
+      "ignored_dark_energy": 9.714776171691893,
+      "forgot_unit_conversion": 0.015043604086026232
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.368,
+      "H0": 70.2
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.368 and Hubble constant H0 = 70.2 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 12.67133370594332,
+    "distractors": {
+      "ignored_dark_energy": 9.285776084337977,
+      "forgot_unit_conversion": 0.012959127128421783
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.255,
+      "H0": 68.9
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.255 and Hubble constant H0 = 68.9 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 14.309905401327914,
+    "distractors": {
+      "ignored_dark_energy": 9.460979406683977,
+      "forgot_unit_conversion": 0.014634914334591154
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.317,
+      "H0": 66.4
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.317 and Hubble constant H0 = 66.4 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 13.979044902696122,
+    "distractors": {
+      "ignored_dark_energy": 9.817190980730812,
+      "forgot_unit_conversion": 0.014296539277707338
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.358,
+      "H0": 66.0
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.358 and Hubble constant H0 = 66.0 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 13.585058466519971,
+    "distractors": {
+      "ignored_dark_energy": 9.876689107886758,
+      "forgot_unit_conversion": 0.01389360455656699
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.303,
+      "H0": 69.7
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.303 and Hubble constant H0 = 69.7 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 13.48733825642355,
+    "distractors": {
+      "ignored_dark_energy": 9.352388538314578,
+      "forgot_unit_conversion": 0.013793664908930558
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.309,
+      "H0": 70.3
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.309 and Hubble constant H0 = 70.3 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 13.29887803608877,
+    "distractors": {
+      "ignored_dark_energy": 9.272567299011751,
+      "forgot_unit_conversion": 0.013600924348966988
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.358,
+      "H0": 73.6
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.358 and Hubble constant H0 = 73.6 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 12.182253516172803,
+    "distractors": {
+      "ignored_dark_energy": 8.856813602181061,
+      "forgot_unit_conversion": 0.012458938868660617
+    }
+  },
+  {
+    "template": "A_age_of_universe",
+    "params": {
+      "Om": 0.285,
+      "H0": 70.8
+    },
+    "text": "For a spatially flat LCDM universe with matter density parameter Om = 0.285 and Hubble constant H0 = 70.8 km/s/Mpc, compute the current age of the universe in gigayears (Gyr).",
+    "truth": 13.506396795858763,
+    "distractors": {
+      "ignored_dark_energy": 9.207083066674098,
+      "forgot_unit_conversion": 0.013813156309058952
+    }
+  }
+]
